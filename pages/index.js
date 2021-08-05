@@ -10,6 +10,25 @@ import Testimonial3 from '../components/Testimonial3';
 export default function Home() {
 	return (
 		<section>
+			<Head>
+				<title> Tailwind SaaS Blocks UI – Demo </title>
+
+				<title>Tailwind SaaS Blocks UI – Demo </title>
+				<meta name="title" content="Tailwind SaaS Blocks UI – Demo " />
+				<meta name="description" content="" />
+
+				<meta property="og:type" content="website" />
+				<meta property="og:url" content="https://www.saasblocks.app" />
+				<meta property="og:title" content="Tailwind SaaS Blocks UI – Demo " />
+				<meta property="og:description" content="" />
+				<meta property="og:image" content="/meta.jpg" />
+
+				<meta property="twitter:card" content="summary_large_image" />
+				<meta property="twitter:url" content="https://www.saasblocks.app" />
+				<meta property="twitter:title" content="Tailwind SaaS Blocks UI – Demo " />
+				<meta property="twitter:description" content="" />
+				<meta property="twitter:image" content="/meta.jpg"></meta>
+			</Head>
 			<Hero1 />
 			<PricingTable2 />
 			<Step1 />
