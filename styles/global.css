@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+	display: none;
+}
+
+@font-face {
+	font-family: 'DMSans';
+	src: url('/fonts/DMSans/DMSans-Regular.ttf');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'DMSans';
+	src: url('/fonts/DMSans/DMSans-Medium.ttf');
+	font-style: medium;
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'DMSans';
+	src: url('/fonts/DMSans/DMSans-Bold.ttf');
+	font-style: bold;
+	font-weight: 700;
+	font-display: swap;
+}
