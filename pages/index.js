@@ -21,13 +21,19 @@ export default function Home() {
 				<meta property="og:url" content="https://www.saasblocks.app" />
 				<meta property="og:title" content="Tailwind SaaS Blocks UI – Demo " />
 				<meta property="og:description" content="" />
-				<meta property="og:image" content="/meta.jpg" />
+				<meta
+					property="og:image"
+					content="https://res.cloudinary.com/stamped/image/upload/v1628175884/meta_zsle3y.jpg"
+				/>
 
 				<meta property="twitter:card" content="summary_large_image" />
 				<meta property="twitter:url" content="https://www.saasblocks.app" />
 				<meta property="twitter:title" content="Tailwind SaaS Blocks UI – Demo " />
 				<meta property="twitter:description" content="" />
-				<meta property="twitter:image" content="/meta.jpg"></meta>
+				<meta
+					property="twitter:image"
+					content="https://res.cloudinary.com/stamped/image/upload/v1628175884/meta_zsle3y.jpg"
+				></meta>
 			</Head>
 			<Hero1 />
 			<PricingTable2 />
